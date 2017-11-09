@@ -1,6 +1,6 @@
 {
   "name": "zhaofeng-project-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "项目工具包",
   "author": "zhaofeng",
   "main": "./index.js",
