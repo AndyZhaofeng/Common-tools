@@ -1,4 +1,8 @@
 {
+  "name": "project-utils",
+  "version": "1.0.0",
+  "author": "zhaofeng",
+  "main": "./index.js",
   "dependencies": {
     "mocha": "^4.0.1"
   },
