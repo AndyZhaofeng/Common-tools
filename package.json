@@ -13,5 +13,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AndyZhaofeng/project-utils.git"
-  }
+  },
+  "license": "MIT"
 }
