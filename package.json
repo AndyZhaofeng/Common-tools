@@ -12,6 +12,6 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/AndyZhaofeng/project-utils.git"
   }
 }
