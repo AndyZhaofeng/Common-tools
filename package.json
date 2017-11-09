@@ -1,6 +1,7 @@
 {
   "name": "project-utils",
   "version": "1.0.0",
+  "description": "项目工具包",
   "author": "zhaofeng",
   "main": "./index.js",
   "dependencies": {
@@ -8,5 +9,9 @@
   },
   "scripts": {
     "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
   }
 }
