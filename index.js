@@ -5,7 +5,7 @@
  *
  */
 'use strict';
-import AmountUtils from './app/AmountUtils';
+const AmountUtils = require('./app/AmountUtils');
 module.exports = {
     AmountUtils,
 };
