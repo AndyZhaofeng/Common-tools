@@ -1,5 +1,5 @@
 {
-  "name": "zhaofeng-project-utils",
+  "name": "project-common-tools",
   "version": "1.0.2",
   "description": "项目工具包",
   "author": "zhaofeng",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndyZhaofeng/project-utils.git"
+    "url": "https://github.com/AndyZhaofeng/Common-tools.git"
   },
   "license": "MIT",
   "devDependencies": {
