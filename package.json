@@ -4,9 +4,7 @@
   "description": "项目工具包",
   "author": "zhaofeng",
   "main": "./index.js",
-  "dependencies": {
-    "mocha": "^4.0.1"
-  },
+  "dependencies": {},
   "scripts": {
     "test": "mocha"
   },
@@ -14,5 +12,8 @@
     "type": "git",
     "url": "git+https://github.com/AndyZhaofeng/project-utils.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
 }
