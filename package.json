@@ -1,6 +1,6 @@
 {
   "name": "project-common-tools",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "项目工具包",
   "author": "zhaofeng",
   "main": "./index.js",
