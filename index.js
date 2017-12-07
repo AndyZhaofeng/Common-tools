@@ -6,8 +6,8 @@
  */
 'use strict';
 const AmountUtils = require('./app/AmountUtils');
-const CommonTools = require('./app/FormatError');
+const FormatError = require('./app/FormatError');
 module.exports = {
     AmountUtils,
-    CommonTools,
+    FormatError,
 };
