@@ -8,6 +8,10 @@
 const ErrorObject = require('./utils/ErrorObject');
 const HttpStatus = require('./utils/HttpStatus');
 module.exports = {
+    formatSuccessResponse(context, status = HttpStatus.SUCCESS, body = {}) {
+        context.status = status;
+        context.body = body;
+    },
     formatCatchErr(context, err) {
         if (err.code === 'invalid_param') {
             context.body = { err_msg: err.errors, err_code: 'invalid_param' };
